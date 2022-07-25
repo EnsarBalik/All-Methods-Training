@@ -15,14 +15,9 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Untagged"))
+        if (other.gameObject.CompareTag("Wall"))
         {
             gameObject.SetActive(false);
         }
-    }
-
-    private void CloseObject()
-    {
-        gameObject.SetActive(false);
     }
 }

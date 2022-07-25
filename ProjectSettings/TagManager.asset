@@ -8,6 +8,7 @@ TagManager:
   - Red
   - Coin
   - Enemy
+  - Wall
   layers:
   - Default
   - TransparentFX
