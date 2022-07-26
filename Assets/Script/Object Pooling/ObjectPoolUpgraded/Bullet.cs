@@ -19,5 +19,10 @@ public class Bullet : MonoBehaviour
         {
             gameObject.SetActive(false);
         }
+
+        if (other.gameObject.GetComponent<IDamageable<int>>() != null)
+        {
+            other.gameObject.GetComponent<IDamageable<int>>().TakeDamage(1);
+        }
     }
 }

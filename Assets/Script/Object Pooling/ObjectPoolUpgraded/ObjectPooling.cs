@@ -7,7 +7,7 @@ public class ObjectPooling : MonoBehaviour
     public static ObjectPooling instance;
 
     private List<GameObject> objects = new List<GameObject>();
-    private int amountToPool = 20;
+    private int amountToPool = 10;
 
     [SerializeField] private GameObject bullet;
 
