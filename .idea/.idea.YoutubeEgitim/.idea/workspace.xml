@@ -4,8 +4,7 @@
     <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Sun.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Sun.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun/Sun.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun/Sun.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +102,8 @@
       <workItem from="1674729036292" duration="185000" />
       <workItem from="1674729246401" duration="727000" />
       <workItem from="1674730254078" duration="3214000" />
+      <workItem from="1674824871753" duration="1714000" />
+      <workItem from="1674897795131" duration="1436000" />
     </task>
     <servers />
   </component>
