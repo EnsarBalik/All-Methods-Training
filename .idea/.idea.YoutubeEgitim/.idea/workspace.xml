@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Sun.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Sun.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/d9faf920adde48479822048e9e75e4d515600/f5/4305c579/0200000Fpdb14.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70fff961be83415897c7a30a7cd55d2a136218/a0/abb789e7/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Making day/Assets/Scripts/Sun.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -103,7 +102,7 @@
       <workItem from="1674729246401" duration="727000" />
       <workItem from="1674730254078" duration="3214000" />
       <workItem from="1674824871753" duration="1714000" />
-      <workItem from="1674897795131" duration="1436000" />
+      <workItem from="1674897795131" duration="2467000" />
     </task>
     <servers />
   </component>
