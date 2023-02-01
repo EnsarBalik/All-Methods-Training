@@ -8,7 +8,7 @@ TagManager:
   - Red
   - Coin
   - Enemy
-  - Wall
+  - Ground
   layers:
   - Default
   - TransparentFX
