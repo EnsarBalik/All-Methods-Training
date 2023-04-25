@@ -11,7 +11,7 @@ public class BasicControll : MonoBehaviour
 
     CharacterController ch;
 
-    public List<Health> testList;
+    public GameObject testMan;
 
     private void Start()
     {
@@ -42,10 +42,11 @@ public class BasicControll : MonoBehaviour
     {
         GameObject bullet = ObjectPooling.instance.GetPooledObject();
 
-        if(bullet != null)
+        if (bullet != null && testMan != null)
         {
             bullet.transform.position = bulletPos.position;
             bullet.SetActive(true);
+            testMan.GetComponent<IDamageable<int>>().TakeDamage(_attackDamage);
         }
     }
 }

@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/EnemyCube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/EnemyCube.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/EnemyCylinder.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/EnemyCylinder.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GunHealth.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GunHealth.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Inheritance/cylinderHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Inheritance/cylinderHealth.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Karakter Control/BasicControll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Karakter Control/BasicControll.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealt.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealt.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +107,7 @@
       <workItem from="1674824871753" duration="1714000" />
       <workItem from="1674897795131" duration="2467000" />
       <workItem from="1675284558690" duration="43000" />
-      <workItem from="1682448431487" duration="1341000" />
+      <workItem from="1682448431487" duration="2264000" />
     </task>
     <servers />
   </component>

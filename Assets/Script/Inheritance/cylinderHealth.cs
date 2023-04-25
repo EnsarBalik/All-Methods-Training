@@ -23,7 +23,7 @@ public class cylinderHealth : Health, IDamageable<int>
     {
         base.hitFeedBack();
 
-        this.gameObject.transform.DOShakeScale(0.2f, 0.1f, 15, 90, false);
+        gameObject.transform.DOShakeScale(0.2f, 0.1f, 15, 90, false);
         Tween colorTween = myMat.DOBlendableColor(Color.grey, 0.1f);
         colorTween.OnComplete(() => myMat.DOBlendableColor(Color.green, 0.05f));
     }
@@ -32,7 +32,7 @@ public class cylinderHealth : Health, IDamageable<int>
     {
         base.OnDeath();
 
-        this.gameObject.transform.DOShakeScale(0.2f, 0.1f, 15, 90, false);
+        gameObject.transform.DOShakeScale(0.2f, 0.1f, 15, 90, false);
         Tween colorTween = myMat.DOBlendableColor(Color.red, 0.1f);
         colorTween.OnComplete(() => Destroy(gameObject));
     }

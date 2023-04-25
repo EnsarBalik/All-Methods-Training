@@ -15,4 +15,10 @@ public class ObejctHealth : Health, IDamageable<int>
             OnDeath();
         }
     }
+    
+    protected override void OnDeath()
+    {
+        Destroy(gameObject);
+    }
+    
 }
