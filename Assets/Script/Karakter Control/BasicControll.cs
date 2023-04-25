@@ -11,6 +11,8 @@ public class BasicControll : MonoBehaviour
 
     CharacterController ch;
 
+    public List<Health> testList;
+
     private void Start()
     {
         ch = GetComponent<CharacterController>();

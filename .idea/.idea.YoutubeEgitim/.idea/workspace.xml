@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="" />
+    <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YoutubeEgitim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/EnemyCube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/EnemyCube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/EnemyCylinder.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/EnemyCylinder.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GunHealth.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GunHealth.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Karakter Control/BasicControll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Karakter Control/BasicControll.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealt.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +21,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/d9faf920adde48479822048e9e75e4d515600/f5/4305c579/0200000Fpdb14.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70fff961be83415897c7a30a7cd55d2a136218/a0/abb789e7/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Making day/Assets/Scripts/Sun.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealth.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Test.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -103,6 +113,7 @@
       <workItem from="1674824871753" duration="1714000" />
       <workItem from="1674897795131" duration="2467000" />
       <workItem from="1675284558690" duration="43000" />
+      <workItem from="1682448431487" duration="1341000" />
     </task>
     <servers />
   </component>
