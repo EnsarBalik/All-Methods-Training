@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d11ab8c-b9ec-40ca-89b3-db7d4221ee73" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Army Formations/Army.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Army Formations/Army.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Army.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Army.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Army Formations.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Army Formations.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70fff961be83415897c7a30a7cd55d2a136218/a0/abb789e7/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Making day/Assets/Scripts/Sun.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Army Formations/Army.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Army Formations/FormationRenderer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Army Formations/FormationsBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Obejcts Healt/ObejctHealth.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Sun/RealTimeSun.cs" root0="FORCE_HIGHLIGHTING" />
@@ -108,7 +110,7 @@
       <workItem from="1674897795131" duration="2467000" />
       <workItem from="1675284558690" duration="43000" />
       <workItem from="1682448431487" duration="3272000" />
-      <workItem from="1685654045221" duration="632000" />
+      <workItem from="1685654045221" duration="1120000" />
     </task>
     <servers />
   </component>

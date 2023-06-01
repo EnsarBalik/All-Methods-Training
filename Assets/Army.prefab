@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 334273407000543764}
   - component: {fileID: 4617563844364211657}
   - component: {fileID: 7467114962169011132}
+  - component: {fileID: 5299000641701646736}
+  - component: {fileID: 3271432849043621407}
   m_Layer: 0
   m_Name: Army
   m_TagString: Untagged
@@ -112,3 +114,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _unitPrefab: {fileID: 8628501751413414725}
   _unitSpeed: 2
+--- !u!114 &5299000641701646736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8628501751413414725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336590fd00d676e46803f57b8a2a5d4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _noise: 0.648
+  Spread: -1.5
+  _unitWidth: 7
+  _unitDepth: 9
+  _hollow: 0
+  _nthOffset: 0
+--- !u!114 &3271432849043621407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8628501751413414725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbbe2d44a3c2640ba333aff8b8a2b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _unitGizmoSize: {x: 1, y: 1, z: 1}
+  _gizmoColor: {r: 1, g: 0, b: 0, a: 1}
